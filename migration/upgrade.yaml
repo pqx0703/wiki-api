@@ -14,3 +14,9 @@ versions:
     name: P2009
     run_command_params: {}
   version: 1.42.3
+- config_params: []
+  features:
+  - migration_type: new
+    name: W2009
+    run_command_params: {}
+  version: 1.42.4

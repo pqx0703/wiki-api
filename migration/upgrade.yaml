@@ -1,1 +1,10 @@
-
+versions:
+- config_params:
+  - comment: Pipeline 代码仓库和下载服务器
+    must: false
+    pipeline_registry_host: pl-reg.ones.ai
+    type: string
+  features:
+  - name: F5001
+    run_command_params: {}
+  version: 2.18.0

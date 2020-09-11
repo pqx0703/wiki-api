@@ -8,3 +8,9 @@ versions:
   - name: F5001
     run_command_params: {}
   version: 2.18.0
+- config_params: []
+  features:
+  - migration_type: new
+    name: P2009
+    run_command_params: {}
+  version: 1.42.3
